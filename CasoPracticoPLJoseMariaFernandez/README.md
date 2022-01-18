@@ -3,7 +3,7 @@
 ## Proyecto realizado por José María Fernández Gómez
 
 ## install:
-git clone   
+git clone https://github.com/Josojmf/ProcesadoresLenguaje.git 
 java -jar CasoPractico.jar  
 introduce index of the program to test 1 to 12  
 
